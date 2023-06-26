@@ -14,6 +14,5 @@ In "input_table_x", the departure and destination branches of the x'th instance 
 In addition, volume of the flows are defined by uniformly drawn numbers in [0,1.5].
 
 Any data is unlicenced and this dataset can be used as benchmark instances by everyone.
-Authors: Aleksandra Grochala, Niklas Jost
 
 
