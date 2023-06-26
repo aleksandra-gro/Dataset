@@ -1,0 +1,29 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Dataset for The Multi-Allocation p-Hub Median Problem
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Niklas
+    family-names: Jost
+    email: niklas.jost@tu-dortmund.de
+  - family-names: Ammouriova
+    given-names: Majsa
+    email: maamouriova@uoc.edu
+  - given-names: Aleksandra
+    family-names: Grochala
+    email: aleksandra.grochala@tu-dortmund.de
+  - given-names: Angel A.
+    family-names: Juan
+    email: ajuanp@upv.es
+  - given-names: Christin
+    family-names: Schumacher
+    email: christin.schumacher@tu-dortmund.de
+identifiers:
+  - type: url
+    value: 'https://github.com/aleksandra-gro/Dataset'
+repository-code: 'https://github.com/aleksandra-gro/Dataset.git'
